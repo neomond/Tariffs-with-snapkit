@@ -96,7 +96,7 @@ extension TariffsViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
         cell.layer.masksToBounds = false
-        // Add shadow and other styles here if needed
+       
     }
 }
 
